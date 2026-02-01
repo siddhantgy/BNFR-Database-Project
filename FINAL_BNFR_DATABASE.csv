@@ -1,0 +1,51 @@
+organism,accession,genome_size,gc_content,nifH,nifD,nifK
+Caulobacter vibrioides CB15,AE005673.1,4016947,67.21,0,0,0
+Mycoplasmoides genitalium G37,L43967.2,580076,31.69,0,0,0
+Trichodesmium erythraeum IMS101,CP000393.1,7750108,34.14,1,1,1
+Rhizobium johnstonii 3841,AM236080.1,5057142,61.09,0,0,0
+Vibrio cholerae O1 biovar El Tor str. N16961,AE003852.1,2961149,47.7,0,0,0
+Nitratidesulfovibrio vulgaris str. Hildenborough,AE017285.1,3570858,63.14,1,0,0
+Paraburkholderia phymatum STM815,CP001043.1,3479187,63.03,1,0,0
+Methylococcus capsulatus str. Bath,AE017282.2,3304561,63.58,1,1,1
+Beijerinckia indica subsp. indica ATCC 9039,CP001016.1,4170153,57.06,1,1,1
+Methanosphaera stadtmanae DSM 3091,CP000102.1,1767403,27.63,1,1,1
+Escherichia coli F18+,CP000913.1,91019,50.23,0,0,0
+Bacillus subtilis subsp. subtilis str. 168,AL009126.3,4215606,43.51,0,0,0
+Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759,CP009977.1,3248023,45.3,0,0,0
+Candidatus Pelagibacter ubique HTCC1062,CP000084.1,1308759,29.68,1,0,0
+Escherichia coli,CP043948.1,99454,52.95,0,0,0
+Lactiplantibacillus plantarum WCFS1,AL935263.2,3308273,44.47,0,0,0
+Listeria monocytogenes EGD-e,AL591824.1,2944528,37.98,0,0,0
+Thiobacillus denitrificans ATCC 25259,CP000116.1,2909809,66.07,1,0,0
+Pseudomonas aeruginosa PAO1,AE004091.2,6264404,66.56,0,0,0
+Chlamydia trachomatis D/UW-3/CX,AE001273.1,1042519,41.31,0,0,0
+Bradyrhizobium diazoefficiens USDA 110,BA000040.2,9105828,64.06,1,1,1
+Klebsiella pneumoniae subsp. pneumoniae HS11286,CP003200.1,5333942,57.48,0,0,0
+Salmonella enterica subsp. enterica serovar Typhimurium str. LT2,AE006468.2,4857450,52.22,0,0,0
+Azotobacter vinelandii DJ,CP001157.1,5365318,65.68,1,1,1
+Streptomyces coelicolor A3(2),AL645882.2,8667507,72.12,0,0,0
+Nostoc sp. PCC 7120 = FACHB-418 (Anabaena sp. PCC 7120),BA000019.2,6413771,41.35,1,1,1
+Mycobacterium tuberculosis H37Rv,AL123456.3,4411532,65.61,0,0,0
+Frankia casuarinae,CP000249.1,5433628,70.08,1,1,1
+Corynebacterium glutamicum ATCC 13032,BA000036.3,3309401,53.81,0,0,0
+Bordetella pertussis Tohama I,BX470248.1,4086189,67.72,0,0,0
+Gluconacetobacter diazotrophicus PA1 5,CP001189.1,3887492,66.38,1,1,1
+Azorhizobium caulinodans ORS 571,AP009384.1,5369772,67.32,1,1,1
+Escherichia coli str. K-12 substr. MG1655,U00096.3,4641652,50.79,0,0,0
+Geobacter sulfurreducens PCA,AE017180.2,3814128,60.94,1,1,1
+Xanthomonas campestris pv. campestris str. ATCC 33913,AE008922.1,5076188,65.07,0,0,0
+Chlamydia trachomatis F/11-96,CP006674.1,1042853,41.31,0,0,0
+Clostridium pasteurianum DSM 525 = ATCC 6013,CP009268.1,4352101,29.94,1,1,1
+Helicobacter pylori 26695,AE000511.1,1667867,38.87,1,0,0
+Ruegeria pomeroyi DSS-3,CP000031.1,4109442,64.22,1,0,0
+Burkholderia thailandensis E264,CP000085.1,2914771,68.07,0,0,0
+Zymomonas mobilis subsp. mobilis str. CP4 = NRRL B-14023,CP006818.1,1998637,46.24,1,1,1
+Agrobacterium fabrum str. C58,AE007869.2,2841580,59.38,0,0,0
+Rhodopseudomonas palustris CGA009,BX571963.1,5459213,65.04,1,1,1
+Sinorhizobium meliloti 1021,AL591688.1,3654135,62.73,0,0,0
+Bifidobacterium longum NCC2705,AE014295.1,2256646,60.12,0,0,0
+Staphylococcus aureus subsp. aureus NCTC 8325,CP000253.1,2821361,32.87,0,0,0
+uncultured bacterium,AM406628.1,442,53.17,0,0,0
+Mesorhizobium japonicum MAFF 303099,BA000012.4,7036071,62.75,1,1,1
+Synechocystis sp. PCC 6803,BA000022.2,3573470,47.72,1,1,1
+Trichormus variabilis ATCC 29413 (Anabaena flos-aquae UTEX 1444),CP000117.1,6365727,41.42,1,1,1
